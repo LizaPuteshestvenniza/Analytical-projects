@@ -3,8 +3,8 @@
 Каждый проект нацелен на отработку ряда наыков и инструментов, которые необходимы в профессии "аналитик данных". Проекты отсортированы по сложности и времени создания. 
 
 Навигация по проектам:
-Название проекта | Project1 | Project2 | Project3 | Project4 | Project5 | Project6 | Project7 | Project8 
+Название папки проекта | Project1 | Project2 | Project3 | Project4 | Project5 | Project6 | Project7 | Project8 
 --- | --- | --- | --- |--- |--- |--- |--- |--- 
-Ссылка на проект| <code>[Текст ссылки](https://leetcode.com/problems/longest-palindromic-substring/submissions/) </code> | 283 | 290 | 286 | 289 | 285 | 287 | 287 
+Ссылка на проект| <code>[](https://leetcode.com/problems/longest-palindromic-substring/submissions/) </code> | 283 | 290 | 286 | 289 | 285 | 287 | 287 
 Цель проекта| 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 
 Инструменты| 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 
