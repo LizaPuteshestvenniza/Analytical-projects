@@ -5,6 +5,6 @@
 Навигация по проектам:
 Название папки проекта | Project1 | Project2 | Project3 | Project4 | Project5 | Project6 | Project7 | Project8 
 --- | --- | --- | --- |--- |--- |--- |--- |--- 
-Ссылка на проект| [ссылка](https://github.com/LizaPuteshestvenniza/Analytical-projects/blob/main/Project1/project.ipynb) | 283 | 290 | 286 | 289 | 285 | 287 | 287 
+Ссылка на проект| [ссылка](https://github.com/LizaPuteshestvenniza/Analytical-projects/blob/main/Project1/project.ipynb) |  [ссылка](https://github.com/LizaPuteshestvenniza/Analytical-projects/blob/main/Project2/project.ipynb) |  [ссылка](https://github.com/LizaPuteshestvenniza/Analytical-projects/blob/main/Project3/project.ipynb) |  [ссылка](https://github.com/LizaPuteshestvenniza/Analytical-projects/blob/main/Project4/project.ipynb) |  [ссылка](https://github.com/LizaPuteshestvenniza/Analytical-projects/blob/main/Project5/project.ipynb) | [ссылка](https://github.com/LizaPuteshestvenniza/Analytical-projects/blob/main/Project6/project.ipynb) |  [ссылка](https://github.com/LizaPuteshestvenniza/Analytical-projects/blob/main/Project7/project.ipynb) | [ссылка](https://github.com/LizaPuteshestvenniza/Analytical-projects/blob/main/Project8/project.ipynb)
 Цель проекта| 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 
 Инструменты| 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 
