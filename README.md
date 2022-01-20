@@ -5,6 +5,6 @@
 Навигация по проектам:
 Название папки проекта | Project1 | Project2 | Project3 | Project4 | Project5 | Project6 | Project7 | Project8 
 --- | --- | --- | --- |--- |--- |--- |--- |--- 
-Ссылка на проект| <code>[ссылка](https://github.com/LizaPuteshestvenniza/Analytical-projects/blob/main/Project1/project.ipynb) </code> | 283 | 290 | 286 | 289 | 285 | 287 | 287 
+Ссылка на проект| [ссылка](https://github.com/LizaPuteshestvenniza/Analytical-projects/blob/main/Project1/project.ipynb) | 283 | 290 | 286 | 289 | 285 | 287 | 287 
 Цель проекта| 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 
 Инструменты| 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 
